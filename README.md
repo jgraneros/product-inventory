@@ -1,4 +1,8 @@
-# inventario-productos
+# product-inventory
+
+## A simple product inventory software application written in Quarkus and utilizing GraphQL
+
+## About this project 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
